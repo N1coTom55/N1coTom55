@@ -15,7 +15,7 @@
 
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300px"></picture>
 
-- 🎓 Estudiante de `Licenciatura en Economía` en la UNNE (finalización estimada: 2025)  
+- 🎓 Estudiante de `Licenciatura en Economía` en la UNNE (finalización estimada: 2030)  
 - 💻 Desarrollador web con experiencia en tecnologías modernas  
 - 🚀 Stack tecnológico: `HTML5`, `CSS3`, `JavaScript`, `Python`, `SQL`, `Django`  
 - 📈 Especializado en combinar `análisis económico` y `tecnología` para crear soluciones innovadoras  
