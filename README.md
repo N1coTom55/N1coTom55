@@ -23,7 +23,7 @@
 - 📈 **Mi visión**: Combinar conocimientos económicos con tecnología para crear soluciones innovadoras  
 - 🔭 **Proyectos actuales**: Reloj analógico, portfolio personal, juego Breakout, web de cafetería, sistema solar interactivo y blog colaborativo sobre cambio climático
 - 👯 **Buscando**: Mentorías, colaboraciones en proyectos de aprendizaje y comunidades de desarrolladores
-- 📬 **Contacto**: [![Email](https://img.shields.io/static/v1?label=email&message=NicoTomadín&color=EA4335&style=flat-square)](mailto:nicolas.tomadin1995@gmail.com)  
+- 📬 **Contacto**: [nicolas.tomadin1995@gmail.com](mailto:nicolas.tomadin1995@gmail.com)  
 - 💡 **Mi lema**: `"Cada línea de código es un paso hacia el futuro"`  
 
 <br>
@@ -154,10 +154,10 @@
   <a href="mailto:nicolas.tomadin1995@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/nicolas-tomadin" target="_blank">
+  <a href="https://www.linkedin.com/in/nicolas-tomadin04/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/N1coTom55">
+  <a href="https://github.com/N1coTom55" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
@@ -178,11 +178,46 @@
   <img src="https://visitcount.itsvg.in/api?id=N1coTom55&label=Profile%20Views&color=6&icon=2&pretty=true" />
 </div>
 
+<!-- Snake animation -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/N1coTom55/N1coTom55/output/snake.svg" alt="Snake animation" />
+</div>
+
 <!-- Línea divisoria final -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---
+
 <div align="center">
+  
+  ### 📫 ¿Quieres colaborar conmigo?
+  
+  Si tienes una idea interesante, quieres colaborar en un proyecto o simplemente charlar sobre programación y economía, ¡no dudes en contactarme!
+  
+  <br>
+  
+  <table>
+    <tr>
+      <td align="center">
+        <a href="mailto:nicolas.tomadin1995@gmail.com">
+          <img src="https://img.shields.io/badge/📧_Escríbeme-EA4335?style=for-the-badge&logoColor=white" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.linkedin.com/in/nicolas-tomadin04/">
+          <img src="https://img.shields.io/badge/🤝_Conectemos-0A66C2?style=for-the-badge&logoColor=white" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/N1coTom55">
+          <img src="https://img.shields.io/badge/💻_Sígueme-181717?style=for-the-badge&logoColor=white" />
+        </a>
+      </td>
+    </tr>
+  </table>
+  
+  <br>
+  
   <p>🌱 <strong>En constante crecimiento - Cada día es una oportunidad para aprender algo nuevo</strong> 🌱</p>
   <p><sub>Creado con ❤️ y muchas ganas de aprender por <a href="https://github.com/N1coTom55">Nicolás Tomadín</a> | Actualizado: Junio 2025</sub></p>
 </div>
